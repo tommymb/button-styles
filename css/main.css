@@ -23,15 +23,16 @@ div {
 
 .btn-small {
   font-size: .875rem;
+  padding: .4em .75em .3em;
 }
 
 .btn-big {
   font-size: 1.5rem;
+  padding: .4em .75em .3em;
 }
 
 .btn-subtle {
   display: inline-block;
-  padding: .4em .75em .3em;
   border-radius: 8px;
   background-color: #ccc;
   color: #fff;
@@ -39,7 +40,6 @@ div {
 
 .btn-ghost {
   display: inline-block;
-  padding: .4em .75em .3em;
   border-radius: 8px;
   color: #000;
   background-color: #fff;
@@ -49,7 +49,6 @@ div {
 
 .btn-warning {
   display: inline-block;
-  padding: .4em .75em .3em;
   border-radius: 8px;
   background-color: #f33;
 }
