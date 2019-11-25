@@ -20,6 +20,7 @@ div {
   background-color: #333;
   font-size: 1.125rem;
   text-decoration: none;
+  border: 3px;
 }
 
 .btn-small {
@@ -33,17 +34,20 @@ div {
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
+  border-color: #ccc;
 }
 
 .btn-ghost {
   color: #000;
   background-color: #fff;
-  border: 3px solid #333;
+  border-color: #666;
+
 }
 
 .btn-warning {
   background-color: #f33;
   color: #fff;
+  border-color: #f33;
 }
 
 .btn:hover {
